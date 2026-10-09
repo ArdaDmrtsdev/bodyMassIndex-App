@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="appIndex.png" alt="App Screenshot" width="600" />
+  <img src="appIndex.png" alt="App Screenshot" width="900" />
 </p>
 
 
