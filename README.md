@@ -14,6 +14,11 @@
 
 ---
 
+<p align="center">
+  <img src="screenshots/ekran.png" alt="App Screenshot" width="600" />
+</p>
+
+
 ## Features
 
 - Height (meters) and weight (kg) input
