@@ -1,17 +1,53 @@
-# vucut_kitle_endeksi
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
 
-A new Flutter project.
+<h1 align="center">Body Mass Index Calculator</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+<p align="center">
+  Enter your height and weight and instantly find out your Body Mass Index (BMI).
+</p>
+
+---
+
+## Features
+
+- Height (meters) and weight (kg) input
+- One-tap BMI calculation
+- Simple and easy-to-use interface
+- Runs on Android, iOS and web
+
+## How It Works
+
+```
+BMI = weight (kg) / (height (m) x height (m))
+```
+
+Example: for 1.75 m and 70 kg, the result is **22.86**.
+
+| BMI Value    | Category    |
+|--------------|-------------|
+| Below 18.5   | Underweight |
+| 18.5 - 24.9  | Normal      |
+| 25 - 29.9    | Overweight  |
+| 30 and above | Obese       |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+flutter pub get
+flutter run -d chrome
+```
 
-A few resources to get you started if this is your first Flutter project:
+> Enter your height in meters (for example `1.75`).
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+
+<p align="center">Developed by <b>ArdaDmrtsdev</b></p>orials,
 samples, guidance on mobile development, and a full API reference.
